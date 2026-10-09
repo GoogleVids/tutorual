@@ -1,0 +1,16 @@
+---------------------------------------------------
+
+Cpanel Username: b32_43125005
+Cpanel Password: 1!TOdayisagoodday
+Your URL: http://websiteiseasy.byethost32.com or http://www.websiteiseasy.byethost32.com
+FTP Server : ftpupload.net
+FTP Login : b32_43125005
+FTP Password : 1!TOdayisagoodday
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b32_43125005
+MySQL Password : 1!TOdayisagoodday
+MySQL Server: SEE THE CPANEL
+
+
+Cpanel URL: http://cpanel.byethost32.com/
+---------------------------------------------------
